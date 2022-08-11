@@ -7,7 +7,7 @@ export default function Tagline() {
    }
   return (
     <div className='container-fluid text-center' style={myStyle}>
-        <h2>This is our project tagline space</h2>
+        <h2>Code Editing, Done Right</h2>
     </div>
   )
 }
