@@ -9,7 +9,7 @@ export default function Footer() {
     <div>
       <footer className="text-muted">
         <div className="container-fluid position-absolute bottom-0" style={footerstyle}>
-          <p>Copyright CodePro</p>
+          <p>Copyright Embellish</p>
         </div>
       </footer>
     </div>

@@ -7,8 +7,11 @@ export default function About() {
   return (
     <div className='container text-center' style={aboutstyle}>
       <h2>About</h2>
-      <p>CodePro is an online code editor which can be used for various languages such as for compiler and debugger tool for C/C++ languages. It is world's first online IDE which gives debugging facility with embedded gdb debugger. This is a very handy webapp for coders who love coding in online IDE but face unexpected crashes and tricky bugs in their code. CodePro provides debugging power to such users to help them out.
-        So all in all, its a great online IDE powered with code editor, compiler and debugger.</p>
+      <p>Embellish is an online code formatter which is used to beautify and format your code. It supports more than 40 languages and supports syntax highlighting. Using Embellish is simple; just paste your raw code and let Embellish do the rest!
+      </p>
+      <p>
+        Welcome to Embellish! Start Coding now!
+      </p>
     </div>
   )
 }
